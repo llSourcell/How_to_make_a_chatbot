@@ -8,12 +8,14 @@ This is the code for [this](https://youtu.be/t5qgjJIBy9g) video by Siraj Raval o
 ## Dependencies
 
 * tensorflow (https://www.tensorflow.org/install/)
-* keras (https://keras.io/)
+* functools
+* tarfile
+* re
 
 ## Usage
 
-Run `jupyter notebook` in terminal and the code will pop up in your default browser. 
+Run `python memorynetwork.py` in terminal and the code will begin training.
 
 ## Credits
 
-Credits for the code go to [emitvay](https://github.com/ematvey/tensorflow-seq2seq-tutorials) i've merely created a wrapper to get people started.
+Credits for the code go to the creator of Keras, [fchollet](https://github.com/fchollet/keras/blob/master/examples/babi_memnn.py) i've merely created a wrapper to get people started.
