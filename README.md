@@ -1,7 +1,7 @@
 # How_to_make_a_chatbot
 This is the code for "How to Make a Chatbot - Intro to Deep Learning #12' by Siraj Raval on YouTube
 
-## Coding challenge
+## Coding challenge - Due Date, Thursday April 6 2017 at 12 PM PST
 
 The challenge for this video is to make your own Q&A System using any type of memory network (plain, end-to-end, or dynamic). You can even use the code in this repository verbatim, just modify it so that a user can ask it questions from the command line. This will be a good way to get familiar with this type of bleeding edge deep learning model.
 
